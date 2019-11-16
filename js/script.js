@@ -74,7 +74,7 @@ function setLang(lang) {
 		document.getElementById('navLocation').innerHTML = "location";
 		/*document.getElementById('textBanner').innerHTML = "Flóra has recently moved to a new and better location.<br />Visit us at <a href='#location'>Hafnarstræti 90</a>, downtown Akureyri.";*/
 		document.getElementById('headerAbout').innerHTML = "About flóra:";
-		document.getElementById('textAboutRight').innerHTML = "<b>Opening hours:<br /><br />Mondays:<br />12am - 6pm<br />Tue - Sat:<br />12am - 4pm</b><br /><span id='facelink'><br />Flóra on <a href='https://www.facebook.com/flora.akureyri/' target='_blank'>facebook</a>.</span>";
+		document.getElementById('textAboutRight').innerHTML = "Opening hours:<br /><br />Especially selected, <br />see Flóra on <a href='https://www.facebook.com/flora.akureyri/' target='_blank'>Facebook</a>.";
 		document.getElementById('textAbout').innerHTML = "Flóra is a concept store and a workshop with happenings and exhi&shy;bitions. Flóra offers sel&shy;ected new and renewed articles from Iceland, Germany, France and Switzerland.<br /><br />Flóra is located in <a href='#location'>Hafnar&shy;stræti 90</a>, down&shy;town Akur&shy;eyri, Northern-Iceland.";
 		document.getElementById('headerStore').innerHTML = "Store:";
 		document.getElementById('textStore').innerHTML = "Flóra offers selected new and renewed articles from Eyjafjord, Iceland, Germany, France and Switzerland. The focus is on things hand crafted made in small fabrics or homemade ones that are produced under friendly circumstances for people and nature. Flóra carries things from local artists, craftsman and producers. Here, you will find clothes, honey, coffee, books, wollen things, icelandic herbs, lace, art, candles, cups, bottles, bags among many, many other things.";
@@ -93,9 +93,8 @@ function setLang(lang) {
 		document.getElementById('navHappenings').innerHTML = "happenings";
 		document.getElementById('navStudio').innerHTML = "werkstatt";
 		document.getElementById('navLocation').innerHTML = "wo ist flóra";
-		/*document.getElementById('textBanner').innerHTML = "Flóra has recently moved to a new and better location.<br />Visit us at <a href='#location'>Hafnarstræti 90</a>, downtown Akureyri.";*/
 		document.getElementById('headerAbout').innerHTML = "Über flóra:";
-		document.getElementById('textAboutRight').innerHTML = "<b>Öffnungszeiten:<br /><br />Montags:<br />12:00 - 18:00 Uhr<br />Di - Sa:<br />12:00 - 16:00 Uhr</b><span id='facelink'><br />Flóra auf <a href='https://www.facebook.com/flora.akureyri/' target='_blank'>facebook</a>.</span><br />";
+		document.getElementById('textAboutRight').innerHTML = "Öffnungszeiten:<br /><br />Ausgewählte <br/>öffnungszeiten, sehe <br/>Flóra auf <a href='https://www.facebook.com/flora.akureyri/' target='_blank'>Facebook</a>.";
 		document.getElementById('textAbout').innerHTML = "Flóra ist ein Konsept-Laden und Werkstatt mit Happenings und Aus­&shy;stellungen, mit Schwer&shy;punkt auf weiter&shy;verwendung, wieder&shy;ver&shy;wendung, Her&shy;stellungs&shy;kultur&shy;/&shy;Werk&shy;kultur und Natur&shy;nahe Lebens&shy;art.<br /><br />Flóra ist in <a href='#location'>Hafnar&shy;stræti 90</a> im Stadt&shy;zentrum von Akureyri.";
 		document.getElementById('headerStore').innerHTML = "Der Laden:";
 		document.getElementById('textStore').innerHTML = "Flóra bietet eine Vielfalt von ausgewählten neuen und wiederverwendeten Artikeln an. Diese stammen von lokalen, Isländischen und auch Deutschen und französische Künstlern, Kleinproduzenten und von Firmen, die ihre Waren unter freundlichen Umständen herstellen. Hier mischen sich Kunst, Design, Hausgemachtes und Kunsthandwerk als Kleidungsstücke, Honig, Kaffee, Bücher, Kunstobjekte, Postkarten, Kerzen, Wollpullis, Taschen, Holzspielzeug, Tücher, Isländische Kräuter…";
@@ -116,7 +115,7 @@ function setLang(lang) {
 		document.getElementById('navLocation').innerHTML = "staðsetning";
 		/*document.getElementById('textBanner').innerHTML = "Flóra hefur opnað í nýju húsi, <a href='#location'>Hafnarstræti 90</a>.<br />Verið velkomin.";*/
 		document.getElementById('headerAbout').innerHTML = "Um flóru:";
-		document.getElementById('textAboutRight').innerHTML = "<b>Opnunartímar:<br /><br />Mánudaga:<br />12:00 - 18:00<br />Þri - Lau:<br />12:00 - 16:00</b><span id='facelink'><br /><br />Flóra á <a href='https://www.facebook.com/flora.akureyri/' target='_blank'>facebook</a>.</span>";
+		document.getElementById('textAboutRight').innerHTML = "Opnunartímar:<br><br />Sérvaldir opnunartímar, <br />fylgstu með <br />Flóru á <a href='https://www.facebook.com/flora.akureyri/' target='_blank'>Facebook</a>.";
 		document.getElementById('textAbout').innerHTML = "Flóra er verslun, viðburðar&shy;staður og vinnu&shy;stofur. Flóra býður upp á vörur úr íslenski og þýskri menningarflóru, viðburði og sýningar.<br /><br />Flóra er til staðar í <a href='#location'>Hafnar&shy;stræti 90</a>, í miðbæ Akureyrar.";
 		document.getElementById('headerStore').innerHTML = "Verslun:";
 		document.getElementById('textStore').innerHTML = "Flóra býður upp á sérvalda muni úr íslenskri og þýskri menningarflóru. Áherslan er á áfram-nýtingu, endurnýtingu og nýja muni sem eru framleiddir í heimaframleiðslu eða hjá litlum framleiðendum undir vænum kringumstæðum fyrir fólk og náttúru. Í flóru má meðal annars finna fatnað, hunang, kaffi, bækur, tímarit, myndlist, kerti, krúsir, dúka, flöskur, töskur, tuskur, reykelsi.";

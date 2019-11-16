@@ -211,6 +211,7 @@ body > div {
 	padding: 38px;
 	margin: 0 0 50px 50px;
 	font-size: 22px;
+	font-weight: bold;
 	-webkit-font-smoothing: antialiased; 
 	}
 	
@@ -311,10 +312,6 @@ footer p a:hover { border-bottom: 3px solid #FFF; }
 	border: none;
 	overflow: hidden;	
 	}
-
-#facelink {
-	display: none;
-}
 
 /* map */
 .marker-popup { font-size: 18px; line-height: 180%; }
@@ -462,7 +459,6 @@ footer p a:hover { border-bottom: 3px solid #FFF; }
 	.short { width: 94%; height: 264px; }
 	.short img { height: 264px; }
 	#facebook_container { display: none; }
-	#facelink { display: inline; }
 	}
 
 /* windows smaller than 320px (Smaller smartphones in portrait) */
